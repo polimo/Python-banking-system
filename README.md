@@ -13,7 +13,7 @@ Features:
 How to use:
 
 1-Clone the repository or download the banking_system.py file.
-2-Run the program with python3 ==> python banking_system.py
+2-Run the program with python3 ==> <python banking_system.py>
 
 Notes:
 
